@@ -42,8 +42,8 @@ int main()
         }
         
         else
-        {/ Force reprompt on invalid input
-            height = 0;        /
+        {
+            height = 0;        // Force reprompt on invalid input
         }
     }
     while (height < 1 || height > 8);
