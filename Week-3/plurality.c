@@ -4,7 +4,7 @@
 #include <stdio.h>      // printf(), Scanf()
 #include <string.h>     // strcmp()
 
-//max number of candidate
+// max number of candidate
 #define MAX 9           
 // a custom data type to store candidate name and their votes
 typedef struct
