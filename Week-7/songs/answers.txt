@@ -1,0 +1,14 @@
+- Characterizing the listener’s 2018 audio aura
+
+Based on 100 songs from 2018 we can find individual averages for energy, vibrant and Danceability
+And check which is highest and then categorize them .
+
+
+- This calculation might not be representative
+
+As a person's music taste often changes, seasonally or even daily.
+
+
+ - Better Approach
+
+Include the play count of each song to emphasize most-listened tracks.
